@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [Solar Support Simulation](#) – Structural modeling and analysis with FreeCAD and SimScale.  
+🔹 [Proyecto_Final_POO_Diego_Arevalo](#) – Structural modeling and analysis with FreeCAD and SimScale.  
 🔹 [Logic in Python](#) – Conversion of LaTeX expressions into WFF (Well-Formed Formulas).  
 🔹 [Algorithms & Data Structures](#) – Academic implementations and optimizations.  
 
