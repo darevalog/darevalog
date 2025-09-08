@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Technologies & Tools
-- **Languages:** Python, Java. 
+- **Languages:** Python, Java, HTML, CSS. 
 - **Databases:** MySQL, PostgreSQL  
 - **Tools:** Git, GitHub, FreeCAD, AutoCAD.  
 - **Interests:** Data Science, Cybersecurity.  
