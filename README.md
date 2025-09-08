@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Diego Arévalo  
 
-🎓 Computer Science and Systems Engineering student at **Universidad Nacional de Colombia**.  
-💻 Passionate about **software development, computational simulation, and data analysis**.  
-🌱 Currently learning: **Advanced Python, data structures, cloud computing, and CAD/CAE simulations**.  
+🎓 Systems Engineering student at **Universidad Nacional de Colombia**.  
+💻 Passionate about **software development, Data Science and Cybersecurity**.  
+🌱 Currently learning: **Python, data structures, cloud computing, and CAD/CAE simulations**.  
 
 ---
 
@@ -21,9 +21,19 @@
 
 ---
 
+## 🎓 Certificados
+- [Certificado en Python - Coursera](#)  
+- [Introducción a Git y GitHub - Google](#)  
+- [Fundamentos de Bases de Datos - Oracle](#)  
+
+*(Agrega el enlace directo si el certificado es público, o deja el nombre si es privado)*  
+
+---
+
 ## 🌐 Find me on:
 - [LinkedIn](www.linkedin.com/in/diego-arévalo-1391752ba)  
-- [X](https://x.com/daag1309) 
+- [X](https://x.com/daag1309)
+- [Institutional email](darevalo@unal.edu.co)
 
 ---
 ⭐ Always eager to learn, collaborate, and build impactful projects.
