@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diego Alejandro Arévalo  
+# 👋 Hi, I'm Diego Arévalo  
 
 🎓 Computer Science and Systems Engineering student at **Universidad Nacional de Colombia**.  
 💻 Passionate about **software development, computational simulation, and data analysis**.  
