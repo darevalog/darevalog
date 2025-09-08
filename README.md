@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 Technologies & Tools
-- **Languages:** Python, Java, C, JavaScript  
+- **Languages:** Python, Java. 
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, Docker, FreeCAD, SimScale  
-- **Interests:** Data Science, Physics Simulations, Software Optimization  
+- **Tools:** Git, GitHub, FreeCAD, AutoCAD.  
+- **Interests:** Data Science, Cybersecurity.  
 
 ---
 
@@ -22,8 +22,8 @@
 ---
 
 ## 🌐 Find me on:
-- [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio](https://your-website.com) *(optional)*  
+- [LinkedIn](www.linkedin.com/in/diego-arévalo-1391752ba)  
+- [X](https://x.com/daag1309) 
 
 ---
 ⭐ Always eager to learn, collaborate, and build impactful projects.
