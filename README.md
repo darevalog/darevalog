@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [Proyecto_Final_POO_Diego_Arevalo](#) – Structural modeling and analysis with FreeCAD and SimScale.  
+🔹 [Web Scraper](#) – A Python web scraper built to automatically extract information from websites. It uses libraries such as Requests and BeautifulSoup to fetch and parse HTML content, enabling the collection of structured data (e.g., titles, prices, links, news) and storing it in formats like CSV or JSON for further analysis..  
 🔹 [Logic in Python](#) – Conversion of LaTeX expressions into WFF (Well-Formed Formulas).  
 🔹 [Algorithms & Data Structures](#) – Academic implementations and optimizations.  
 
