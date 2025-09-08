@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Diego Alejandro Arévalo  
 
-<!--
-**darevalog/darevalog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Systems Engineering student at **Universidad Nacional de Colombia**.  
+💻 Passionate about **software development, computational simulation, and data analysis**.  
+🌱 Currently learning: **Advanced Python, data structures, cloud computing, and CAD/CAE simulations**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- **Languages:** Python, Java, C, JavaScript  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, Docker, FreeCAD, SimScale  
+- **Interests:** Data Science, Physics Simulations, Software Optimization  
+
+---
+
+## 📂 Featured Projects
+🔹 [Solar Support Simulation](#) – Structural modeling and analysis with FreeCAD and SimScale.  
+🔹 [Logic in Python](#) – Conversion of LaTeX expressions into WFF (Well-Formed Formulas).  
+🔹 [Algorithms & Data Structures](#) – Academic implementations and optimizations.  
+
+---
+
+## 🌐 Find me on:
+- [LinkedIn](https://www.linkedin.com/)  
+- [Portfolio](https://your-website.com) *(optional)*  
+
+---
+⭐ Always eager to learn, collaborate, and build impactful projects.
