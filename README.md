@@ -22,11 +22,7 @@
 ---
 
 ## 🎓 Certificados
-- [Certificado en Python - Coursera](#)  
-- [Introducción a Git y GitHub - Google](#)  
-- [Fundamentos de Bases de Datos - Oracle](#)  
-
-*(Agrega el enlace directo si el certificado es público, o deja el nombre si es privado)*  
+- Cybersecurity - Universidad de los Andes (Agiosto de 2024)
 
 ---
 
