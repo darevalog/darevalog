@@ -33,3 +33,5 @@
 
 ---
 ⭐ Always eager to learn, collaborate, and build impactful projects.
+
+> :shipit: darevalog
