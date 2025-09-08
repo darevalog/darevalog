@@ -22,7 +22,7 @@
 ---
 
 ## 🎓 Certificados
-- **Cybersecurity** - Universidad de los Andes (Agosto de 2024)
+- **Cybersecurity** - Universidad de los Andes (August 2024)
 
 ---
 
